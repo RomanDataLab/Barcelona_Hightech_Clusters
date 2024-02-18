@@ -34,6 +34,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Shrimp, Urbano, Ear
 - Several advanced industries, such as Pharmtech, Biotech, and Chemicaltech, lead the Catalan economy, while other globally demanded sectors like robotics, additive manufacturing, and electric vehicles are underrepresented in the Barcelona metropolitan region, and this policy-making rsearch is focused on stimulating these latter sectors.
 - While traditional industries are typically located along main rail corridors, advanced industries can be dispersed throughout the entire metropolitan area.
 - Policy-making effectively employs clustering as a tool for stimulating economic development, making geographically linked clusters the most potent instrument for the development of economic ecosystems.
+- The real Barcelona agglomeration is woven from interconnected industrial and social clusters and is quite extensive compared to the limited metropolitan authorities.
 
 ## piece of code
 1. overlapping data and merging maps with Grasshoper. [source>>](221104_AXO_CONNECTIVITY_LANDUSES_Roman ed02.gh)
