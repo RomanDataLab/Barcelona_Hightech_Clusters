@@ -58,8 +58,8 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Shrimp, Urbano, Ear
 - Listado Completo de Actividades de la CNAE 2009 - [CNAE](https://www.cnae.com.es/lista-actividades.php)
 - Ley 15/2020, de 22 de diciembre, de las áreas de promoción económica urbana de la Comunidad Autónoma Cataluña - [BOE-A-2021-462](https://www.boe.es/buscar/pdf/2021/BOE-A-2021-462-consolidado.pdf)
 - Catalonia 2020 Strategy - [Generalitat de Catalunya](http://catalunya2020.gencat.cat/web/.content/00_catalunya2020/Documents/angles/fitxers/ecat2020_en.pdf)
-- The Strength of an Innovative and Outward-Looking Nation: Catalan Economy - Report by Generalitat Catalunya. (Assumed reference, no direct link available)
-- The Artificial Intelligence in Catalonia: Technology Report by ACCIO - [ACCIO](https://accio.gencat.cat/en/index.html) (Assumed link, specific report not directly available)
+- The Strength of an Innovative and Outward-Looking Nation: Catalan Economy - Report by Generalitat Catalunya.
+- The Artificial Intelligence in Catalonia: Technology Report by ACCIO - [ACCIO](https://accio.gencat.cat/en/index.html)
 - Asia Strategy of Barcelona City Council - [Barcelona City Council](https://ajuntament.barcelona.cat/relacionsinternacionalsicooperacio/sites/default/files/estrategiaasia_en.pdf)
 - Climate Plan 2018-2030 of Barcelona - [Barcelona City Council](https://www.barcelona.cat/climateemergency/en)
 - NewSpace Strategy of Catalonia
