@@ -39,10 +39,36 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Shrimp, Urbano, Ear
 1. overlapping data and merging maps with Grasshoper. [source>>](221104_AXO_CONNECTIVITY_LANDUSES_Roman ed02.gh)
 
 ## data visualization
-### Factsheet of wildboar behaviour in the metropolitan Barcelona.
-![](visuals/Presentation final_页面_06.jpg)
-### Processed histogram map depicting the conflict zones.
-![](IoB-01.png)
+### Technology transfer procedure.
+![](visuals/perks-06.png)
+### Global trends in R^D
+[![](https://img.youtube.com/vi/MSq08uFpf9c/0.jpg)](https://www.youtube.com/watch?v=MSq08uFpf9c)
+### Data visualization of technology transfer in Spain.
+![](visuals/perks-11.png)
+### Data visualization of the correlation between the number and type of companies and their revenue.
+![](visuals/perks-12.png)
+### Scheme of an innovation ecosystem.
+![](visuals/perks-19.png)
+### Data visualization of relatedness to advanced industries.
+![](visuals/perks-21.png)
+### Methodology of identification of geographical clusters.
+![](visuals/perks-23.png)
+### Filtering clusters by specific features. Isochrones in QGIS
+![](visuals/perks-24.png)
+### Map of selected proto-clusters defined by 2 top quantiles of revenue and number of employees in hightech companies. QGIS isochrones
+![](visuals/perks-25.png)
+### Map of specified AdvInd clusters and their specialisation. Isochrones in Grasshopper + Earth Engine + Hops
+![](visuals/perks-28.png)
+### Dynamic map of Cluster analysis.
+[![](https://img.youtube.com/vi/ezbQuJoruPs/0.jpg)](https://www.youtube.com/watch?v=ezbQuJoruPs)
+### Scheme of intercluster ecosystem.
+![](visuals/perks-29.png)
+### Map of categorization of hightech clusters in the Metropolitan Barcelona.
+![](visuals/perks-31.png)
+### Proposal for policy-making to stimulate the development of specific hightech clusters.
+![](visuals/perks-38.png)
+### Data analys of the metropolitam area of Barcelona in comparison with the existing Metropolitan Authorities Area by overlapping with hightech clusters
+![](visuals/perks-41.png)
 
 ##  References
 - European Industrial Strategy - [European Commission](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-industrial-strategy_en)
