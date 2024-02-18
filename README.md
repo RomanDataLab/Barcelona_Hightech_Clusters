@@ -67,7 +67,7 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Shrimp, Urbano, Ear
 ![](visuals/perks-31.png)
 ### Proposal for policy-making to stimulate the development of specific hightech clusters.
 ![](visuals/perks-38.png)
-### Data analys of the metropolitam area of Barcelona in comparison with the existing Metropolitan Authorities Area by overlapping with hightech clusters
+### Data analys of the metropolitam area of Barcelona in comparison with the existing Metropolitan Authorities Area by overlapping with hightech clusters (160 against 33 municipalities)
 ![](visuals/perks-41.png)
 
 ##  References
