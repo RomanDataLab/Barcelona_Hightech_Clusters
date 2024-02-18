@@ -37,7 +37,9 @@ tools: Grasshopper (Rhinoceros 3d 7), Hops, Decoding Spaces, Shrimp, Urbano, Ear
 - The real Barcelona agglomeration is woven from interconnected industrial and social clusters and is quite extensive compared to the limited metropolitan authorities.
 
 ## piece of code
-1. overlapping data and merging maps with Grasshoper. [source>>](221104_AXO_CONNECTIVITY_LANDUSES_Roman ed02.gh)
+1. processing datasets. [source>>](Network map data preparation.ipynb)
+2. analyzing clusters in Grasshopper. [source>>](IoP_infographics_11_codescnae_2.gh)
+ ![](def_cnae.png)
 
 ## data visualization
 ### Technology transfer procedure.
